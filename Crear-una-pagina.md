@@ -9,7 +9,7 @@ source: https://
 ---
 **Notas:**
 
-[Inicio](Index.md) |
+[Inicio](index.md) |
 ---
 
 
