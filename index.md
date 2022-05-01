@@ -11,8 +11,6 @@ source: https://
 
 [Crear una Página](Crear-una-pagina.md) |
 ---
-  
-  
 
 # 🏡Inicio
 ## Artículos:
