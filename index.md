@@ -9,7 +9,7 @@ source: https://
 ---
 Notas Relacionadas: 
 [Crear una Página](Crear-una-pagina.md)
-___
+
 # 🏡Inicio
 ## Artículos:
 ### El GPS y las apps del celular.
