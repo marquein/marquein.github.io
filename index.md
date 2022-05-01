@@ -13,13 +13,15 @@ source: https://
 ---
 
 # 🏡Inicio
-## Artículos:
+## Índice de Artículos:
 ### El GPS y las apps del celular.
 Si bien no son lo mismo, con sus ventajas y desventajas, acá va una aproximación al tema.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VA5nY60uvW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Detalle de como usar de manera simple  Guru Maps.
+### Detalle de como usar de manera simple  Guru Maps. [Gurú Maps. Simple](GuruMaps Simple.md)
+
+Un detalle de como utilizar Gurú Map supliendo las funciones básicas de un GPS, de manera de dar una herramienta a los alumnos de la tecnicatura en Guía de Montaña del ICABA y los montañistas en general.
 
 
 
