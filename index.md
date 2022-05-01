@@ -11,7 +11,7 @@ source: https://
 [Crear una Página](Crear-una-pagina.md) |
 ---
 
-# 🏡Inicio
+# Inicio
 ## Índice de Artículos:
 ### 1. El GPS y las apps del celular.
 Si bien no son lo mismo, con sus ventajas y desventajas, acá va una aproximación al tema.
