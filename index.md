@@ -8,7 +8,7 @@ date: 2022-04-24 11:05
 source: https://
 ---
 Notas Relacionadas: 
-[[📓Notas Diarias]] - [[🏡Inicio. Drawing 2022-04-24 22.03.57.excalidraw|Excalidraw]] 
+[[📓Notas Diarias]] | [[🏡Inicio. Drawing 2022-04-24 22.03.57.excalidraw|Excalidraw]] 
 ___
 # 🏡Inicio
 ### Escribir mucho más
