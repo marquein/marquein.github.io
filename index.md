@@ -8,7 +8,7 @@ date: 2022-04-24 11:05
 source: https://
 ---
 Notas Relacionadas: 
-[[Crear-una-pagina| ¿Cómo crear una página en GitHub con los archivos Markdown?]]
+[[Crear-una-pagina]]
 ___
 # 🏡Inicio
 ## Artículos:
