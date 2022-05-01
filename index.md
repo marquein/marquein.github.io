@@ -7,7 +7,7 @@ author: Marcos Gustavo Cortina
 date: 2022-04-24 11:05
 source: https://
 ---
-==Notas Relacionadas:== 
+**Notas Relacionadas:** 
 [Crear una Página](Crear-una-pagina.md) |
 
 # 🏡Inicio
