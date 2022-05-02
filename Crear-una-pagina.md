@@ -2,7 +2,7 @@
 title: <Crear una Página>
 layout: default
 nav_order: 2
-tags: ideas
+tags: GitHub
 author: Marcos Gustavo Cortina
 date: 2022-04-24 11:05
 source: https://

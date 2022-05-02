@@ -12,6 +12,7 @@ source: https://
 
 
 # Inicio
+![[GitHub.jpg]]
 ## Índice de Artículos:
 ---
 ### 1. El GPS y las apps del celular.
