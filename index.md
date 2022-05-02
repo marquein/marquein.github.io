@@ -10,9 +10,9 @@ source: https://
 **Notas Relacionadas:** 
 [Crear una Página](Crear-una-pagina.md) |
 
-
 # Inicio
-![[GitHub.jpg]]
+![Portada](Anexos/GitHub.jpg)
+
 ## Índice de Artículos:
 ---
 ### 1. El GPS y las apps del celular.
