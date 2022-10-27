@@ -9,7 +9,7 @@ source: https://
 comments: 
 ---
 **Notas:** 
-[Inicio](index.md) | [Nota](nota.md)
+[Inicio](500-Pagina_GitHub/marquein.github.io/index.md) | [Nota](nota.md)
 
 
 # Guru Maps

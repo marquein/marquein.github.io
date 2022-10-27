@@ -27,4 +27,3 @@ Un detalle de como utilizar Gurú Map supliendo las funciones básicas de un GPS
 
 
 
-

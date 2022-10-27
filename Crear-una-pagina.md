@@ -8,7 +8,7 @@ date: 2022-04-24 11:05
 source: https://
 ---
 **Notas:**
-[Inicio](index.md) |
+[Inicio](500-Pagina_GitHub/marquein.github.io/index.md) |
 
 
 # Apunte para crear una página
