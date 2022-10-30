@@ -1,5 +1,6 @@
 ---
 title: <GuruMaps>
+aliases: [GuruMaps]
 layout: default
 nav_order: 3
 tags: GitHub cartografía
